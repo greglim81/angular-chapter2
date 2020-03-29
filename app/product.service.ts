@@ -1,5 +1,5 @@
 export class ProductService{
     getProducts() : string[] {
-        return ["Learning Angular 2","Pro TypeScript","ASP.NET3"];
+        return ["Learning Angular","Pro TypeScript","ASP.NET"];
     }
 }
